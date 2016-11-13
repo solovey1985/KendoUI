@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoUI.Web.Api", "KendoUI.Web.Api\KendoUI.Web.Api.csproj", "{28C5DCB6-B30B-4368-8A7A-BF7DC3D30240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoUI.Domain", "KendoUI.Domain\KendoUI.Domain.csproj", "{26D99B07-2CD0-48FA-BDF8-82538DC81BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoUI.Infrastructure", "KendoUI.Infrastructure\KendoUI.Infrastructure.csproj", "{D06ECDA2-17C1-4109-A078-AD7EC44A2BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoUI.Persistence", "KendoUI.Persistence\KendoUI.Persistence.csproj", "{F9168B2D-4E43-471C-9AB5-89322AB6DDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KendoUI.Application", "KendoUI.Application\KendoUI.Application.csproj", "{2774C31E-C60F-424F-931D-150F30D2BB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C5DCB6-B30B-4368-8A7A-BF7DC3D30240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C5DCB6-B30B-4368-8A7A-BF7DC3D30240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C5DCB6-B30B-4368-8A7A-BF7DC3D30240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C5DCB6-B30B-4368-8A7A-BF7DC3D30240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D99B07-2CD0-48FA-BDF8-82538DC81BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D99B07-2CD0-48FA-BDF8-82538DC81BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D99B07-2CD0-48FA-BDF8-82538DC81BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D99B07-2CD0-48FA-BDF8-82538DC81BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06ECDA2-17C1-4109-A078-AD7EC44A2BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06ECDA2-17C1-4109-A078-AD7EC44A2BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06ECDA2-17C1-4109-A078-AD7EC44A2BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06ECDA2-17C1-4109-A078-AD7EC44A2BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9168B2D-4E43-471C-9AB5-89322AB6DDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9168B2D-4E43-471C-9AB5-89322AB6DDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9168B2D-4E43-471C-9AB5-89322AB6DDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9168B2D-4E43-471C-9AB5-89322AB6DDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2774C31E-C60F-424F-931D-150F30D2BB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2774C31E-C60F-424F-931D-150F30D2BB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2774C31E-C60F-424F-931D-150F30D2BB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2774C31E-C60F-424F-931D-150F30D2BB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
